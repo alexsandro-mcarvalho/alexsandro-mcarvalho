@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Alexsandro Carvalho 👋
+
+I'm Software Engineer passionate about technology and computer science. Here you'll find some of the projects I'm currently working on.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexsandro-mcarvalho/)
+
 
 <!--
 **alexsandro-mcarvalho/alexsandro-mcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
